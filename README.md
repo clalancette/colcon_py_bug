@@ -20,3 +20,5 @@ That is, setuptools is thinking we are in a venv, and so skips the `install-scri
 Unfortunately we cannot set sys.base_prefix, because of something to do with sysconfig (not sure about this one).
 
 It is still unclear what the solution is.
+
+blah
